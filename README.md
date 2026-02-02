@@ -8,7 +8,6 @@ The application is built with a modern frontend and a RESTful backend and is ful
 ## 🚀 Live Demo
 
 - **Frontend (Vercel):**[ https://[hrms-delta-dun.vercel.app](https://hrms-delta-dun.vercel.app/)/](https://hrms-delta-dun.vercel.app/)
-- **Backend API (Render):** [https://hrms-1-x2am.onrender.com/](https://hrms-1-x2am.onrender.com/)
 - **API Documentation (Swagger):** https://hrms-1-x2am.onrender.com/docs
 
 ---
@@ -68,3 +67,4 @@ The frontend communicates with the backend using HTTP APIs and all data operatio
 ```bash
 git clone https://github.com/pankaj-pixel/HRMS.git
 cd HRMS
+
