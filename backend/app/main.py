@@ -5,10 +5,7 @@ from .routes import router
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="HRMS Lite API")
-origins = [
-    "http://localhost:3000",  # local frontend
-    "https://your-frontend.vercel.app", 
-]
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
