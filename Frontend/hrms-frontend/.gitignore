@@ -12,8 +12,9 @@ dist
 dist-ssr
 *.local
 
-# Editor directories and files
-.vscode/*
+# Editor directories and files git commit -m "Update frontend .gitignore"
+
+.vscode/* 
 !.vscode/extensions.json
 .idea
 .DS_Store
